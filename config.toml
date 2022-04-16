@@ -1,7 +1,7 @@
 baseurl = "https://rwrites.netlify.app"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Beautiful Hugo"
+title = "Rwrites"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Build a beautiful and simple website in minutes"
+  subtitle = "What good of a love, if it didn't turn you into a writer."
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -45,20 +45,20 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "Some Person"
-  website = "yourwebsite.com"
-  email = "youremail@domain.com"
+  name = "Rishabh Soni"
+  website = "sonirishabh.netlify.app"
+  email = "sonirishabh33@gmail.com"
   #facebook = "username"
-  github = "username"
+  github = "thestonecocldrock"
   #gitlab = "username"
   #bitbucket = "username"
   #twitter = "username"
-  reddit = "username"
+  reddit = "Radiant-Alarm6404"
   #linkedin = "username"
   #xing = "username"
   #stackoverflow = "users/XXXXXXX/username"
   #snapchat = "username"
-  instagram = "username"
+  instagram = "therock"
   #youtube = "user/username" # or channel/channelname
   #soundcloud = "username"
   #spotify = "username"
